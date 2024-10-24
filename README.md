@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate backend developer from Germany</h3>
 
-- 🔭 I’m mainly working on closed source projects @ [AMCON](https://amcon.de), but trying to find some time for open source work
+- 🧑‍💻 I’m mainly working on closed source projects @ [AMCON](https://amcon.de), but trying to find some time for open source work
 
 - 🌱 I’m currently learning **Clojure** - and loving it
 
-- 🌈 I constantly tweak my dotfiles. Want to steal them? [Here you go](https://github.com/davidferneding/dotfiles)
+- ✨ I constantly tweak my dotfiles. Want to steal them? [Here you go](https://github.com/davidferneding/dotfiles)
   
 ## Stack
 ### Languages
