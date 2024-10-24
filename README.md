@@ -9,15 +9,20 @@
   
 ## Stack
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=cs,clojure,ts,java,kotlin,lua&perline=3&theme=light)](https://skillicons.dev)
+[![Languages (dark)](https://skillicons.dev/icons?i=cs,clojure,ts,java,kotlin,lua&perline=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages (light)](https://skillicons.dev/icons?i=cs,clojure,ts,java,kotlin,lua&perline=3&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb&perline=3&theme=light)](https://skillicons.dev)
+[![Databases (dark)](https://skillicons.dev/icons?i=postgres,redis,mongodb&perline=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Databases (light)](https://skillicons.dev/icons?i=postgres,redis,mongodb&perline=3&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
 ### Infra/DevOps
-[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,bitbucket,rabbitmq,grafana,prometheus&perline=3&theme=light)](https://skillicons.dev)
+[![Infrastructure (dark)](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,bitbucket,rabbitmq,grafana,prometheus&perline=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Infrastructure (light)](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,bitbucket,rabbitmq,grafana,prometheus&perline=3&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
 ## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidferneding&hide=stars&hide_title=true&show_icons=true&theme=transparent&border_radius=8.0)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats (dark)](https://github-readme-stats.vercel.app/api?username=davidferneding&hide=stars&hide_title=true&show_icons=true&theme=catppuccin_mocha&border_radius=8.0#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats (light)](https://github-readme-stats.vercel.app/api?username=davidferneding&hide=stars&hide_title=true&show_icons=true&theme=catppuccin_latte&border_radius=8.0#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidferneding&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=CommunityForum,CommunityForum-Backend)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs (dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=davidferneding&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=CommunityForum,CommunityForum-Backend&theme=catppuccin_mocha&border_radius=8.0#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs (light)](https://github-readme-stats.vercel.app/api/top-langs/?username=davidferneding&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=CommunityForum,CommunityForum-Backend&theme=catppuccin_latte&border_radius=8.0#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
