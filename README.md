@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate backend developer from Germany</h3>
 
-- 🧑‍💻 I work @ [AMCON](https://amcon.de) and I'm trying to find some time for open source work
+- 🧑‍💻 I'm a Software Engineer @ [LichtBlick](https://lichtblick.de) and I occasionally try to find some time for open source contributions
 
 - 🌱 I’m currently learning **Clojure** - and love it
 
